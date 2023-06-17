@@ -4,9 +4,9 @@ To build a classification methodology to predict the quality of wafer sensors ba
 
 +1 means that the wafer is in a working condition and it doesn’t need to be replaced.
 -1 means that the wafer is faulty and it needs to be replaced.
-Architecture
+##Architecture
 
-https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/Thyroid-Detection-main/Images/architecture.jpg
+![](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/Thyroid-Detection-main/Images/architecture.jpg)jpg
 
 Data Validation
 In this step, we perform different sets of validation like filename validation, number of columns, name of the columns,data type of each columns and other kind of validations.
